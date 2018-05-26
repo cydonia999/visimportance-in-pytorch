@@ -65,7 +65,7 @@ This model is converted from [Caffe models](https://github.com/cvzoya/visimporta
 
 * Predicted by FCN-16s
 
-![](examples/5257_5453850415_2e6230a9bc_gt.png)
+![](examples/5257_5453850415_2e6230a9bc_pred.png)
 
 ### Massvis
 
@@ -83,4 +83,4 @@ This model is converted from [Caffe models](https://github.com/cvzoya/visimporta
    and Hanspeter Pfister and Fredo Durand and Bryan Russell and Aaron Hertzmann,
    Learning Visual Importance for Graphic Designs and Data Visualizations,
     Proceedings of the 30th Annual ACM Symposium on User Interface Software \& Technology, 2017.
-     [site](http://visimportance.csail.mit.edu/)
+     [site](http://visimportance.csail.mit.edu/), [arXiv](https://arxiv.org/abs/1708.02660)
