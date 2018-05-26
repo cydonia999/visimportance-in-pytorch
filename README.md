@@ -60,17 +60,21 @@ This model is converted from [Caffe models](https://github.com/cvzoya/visimporta
 ### GDI
 
 * Ground truth
+
 ![](examples/5257_5453850415_2e6230a9bc_gt.png)
 
 * Predicted by FCN-16s
+
 ![](examples/5257_5453850415_2e6230a9bc_gt.png)
 
 ### Massvis
 
 * Ground truth
+
 ![](examples/economist_daily_chart_103_gt.png)
 
-* Predicted by FCN-16s
+* Predicted by FCN-32s
+
 ![](examples/economist_daily_chart_103_pred.png)
 
 ## References
