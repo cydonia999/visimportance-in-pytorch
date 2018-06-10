@@ -25,9 +25,9 @@ python visimportance.py  --dataset <dataset_name>            # name of dataset, 
 
 The followings are PyTorch pretrained models. Specify the file path to `--pretrained_model` option.
 
-* `gdi_fcn32.pth` FCN-32s model for GDI (Graphic Design Importance) Dataset, link(preparing)
-* `gdi_fcn16.pth` FCN-16s model for GDI (Graphic Design Importance) Dataset, link(preparing)
-* `massvis_fcn32.pth` FCN-32s model for Massvis (Visualization) Dataset, link(preparing)
+* `gdi_fcn32.pth` FCN-32s model for GDI (Graphic Design Importance) Dataset, [link](https://drive.google.com/open?id=1jxsq5W_040Vvr5F-HHvCuqHpJbn3dYbI)
+* `gdi_fcn16.pth` FCN-16s model for GDI (Graphic Design Importance) Dataset, [link](https://drive.google.com/open?id=1gRLrwKTacehb3s0n59DcPaV2VGmuWOqZ)
+* `massvis_fcn32.pth` FCN-32s model for Massvis (Visualization) Dataset, [link](https://drive.google.com/open?id=17jquhHcE-UcIc3kUaxfKEiSjoBHgneWx)
 
 These models are converted from [Caffe models](https://github.com/cvzoya/visimportance/tree/master/models) authors of [1] provide.
 
@@ -51,7 +51,7 @@ python visimportance.py  --dataset <dataset_name>            # name of dataset, 
 The followings are PyTorch VOC FCN-32s pretrained model.
 Specify the file path to `--pretrained_model` option when you newly start to train models for GDI/Massvis datasets.
 
-* `voc_fcn32.pth` FCN-32s model for GDI (Graphic Design Importance) Dataset, link(preparing)
+* `voc_fcn32.pth` FCN-32s model for GDI (Graphic Design Importance) Dataset, [link](https://drive.google.com/open?id=1o26qejatsnxTBV0Uv_qV89q79rFJYrsE)
 
 This model is converted from [Caffe models](https://github.com/cvzoya/visimportance/tree/master/models) authors of [1] provide.
 
@@ -83,4 +83,4 @@ This model is converted from [Caffe models](https://github.com/cvzoya/visimporta
    and Hanspeter Pfister and Fredo Durand and Bryan Russell and Aaron Hertzmann,
    Learning Visual Importance for Graphic Designs and Data Visualizations,
     Proceedings of the 30th Annual ACM Symposium on User Interface Software \& Technology, 2017.
-     [site](http://visimportance.csail.mit.edu/), [arXiv](https://arxiv.org/abs/1708.02660)
+     [authors' site](http://visimportance.csail.mit.edu/), [arXiv](https://arxiv.org/abs/1708.02660)
